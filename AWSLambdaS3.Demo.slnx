@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="AWSLambdaS3.Demo/AWSLambdaS3.Demo.csproj" />
+  <Project Path="AWSLambdaS3/AWSLambdaS3.csproj" />
 </Solution>
