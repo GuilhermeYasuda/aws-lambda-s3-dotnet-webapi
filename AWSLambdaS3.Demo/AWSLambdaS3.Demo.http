@@ -1,0 +1,6 @@
+@AWSLambdaS3.Demo_HostAddress = http://localhost:5288
+
+GET {{AWSLambdaS3.Demo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
